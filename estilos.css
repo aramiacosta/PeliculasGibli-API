@@ -3,3 +3,6 @@ body{
     text-align: center;
     background-color: #dae7f3;
 }
+.btn-info {
+    margin: 1em auto;
+}
